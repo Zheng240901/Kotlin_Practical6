@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/USER/Desktop/MAD-W6A Data Files/RecyclerViewDemo/app/src/main/res/layout/fragment_demo1.xml" value="0.25025641025641027" />
+        <entry key="..\:/Users/USER/Desktop/MAD-W6A Data Files/RecyclerViewDemo/app/src/main/res/layout/fragment_demo2.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/USER/Desktop/MAD-W6A Data Files/RecyclerViewDemo/app/src/main/res/layout/fragment_demo3.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/USER/Desktop/MAD-W6A Data Files/RecyclerViewDemo/app/src/main/res/layout/fragment_demo4.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/USER/Desktop/MAD-W6A Data Files/RecyclerViewDemo/app/src/main/res/layout/photo_item.xml" value="0.2470886075949367" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
